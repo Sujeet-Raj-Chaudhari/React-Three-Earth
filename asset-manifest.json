@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Three-Earth/static/css/main.06b3c16c.chunk.css",
+    "main.js": "/React-Three-Earth/static/js/main.d7db5c26.chunk.js",
+    "main.js.map": "/React-Three-Earth/static/js/main.d7db5c26.chunk.js.map",
+    "runtime-main.js": "/React-Three-Earth/static/js/runtime-main.8998d175.js",
+    "runtime-main.js.map": "/React-Three-Earth/static/js/runtime-main.8998d175.js.map",
+    "static/js/2.00404f88.chunk.js": "/React-Three-Earth/static/js/2.00404f88.chunk.js",
+    "static/js/2.00404f88.chunk.js.map": "/React-Three-Earth/static/js/2.00404f88.chunk.js.map",
+    "static/js/3.66c55bcb.chunk.js": "/React-Three-Earth/static/js/3.66c55bcb.chunk.js",
+    "static/js/3.66c55bcb.chunk.js.map": "/React-Three-Earth/static/js/3.66c55bcb.chunk.js.map",
+    "index.html": "/React-Three-Earth/index.html",
+    "static/css/main.06b3c16c.chunk.css.map": "/React-Three-Earth/static/css/main.06b3c16c.chunk.css.map",
+    "static/js/2.00404f88.chunk.js.LICENSE.txt": "/React-Three-Earth/static/js/2.00404f88.chunk.js.LICENSE.txt",
+    "static/media/8k_earth_clouds.08fcd800.jpg": "/React-Three-Earth/static/media/8k_earth_clouds.08fcd800.jpg",
+    "static/media/8k_earth_daymap.54672c1f.jpg": "/React-Three-Earth/static/media/8k_earth_daymap.54672c1f.jpg",
+    "static/media/8k_earth_normal_map.930cf2e9.jpg": "/React-Three-Earth/static/media/8k_earth_normal_map.930cf2e9.jpg",
+    "static/media/8k_earth_specular_map.7b4efa59.jpg": "/React-Three-Earth/static/media/8k_earth_specular_map.7b4efa59.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8998d175.js",
+    "static/js/2.00404f88.chunk.js",
+    "static/css/main.06b3c16c.chunk.css",
+    "static/js/main.d7db5c26.chunk.js"
+  ]
+}
